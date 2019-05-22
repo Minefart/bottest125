@@ -1763,5 +1763,6 @@ if(msg.content.startsWith(Prefix + "reactrole")){
 
 
 
-bot.login('NTczOTIwNjAxMzkyMDIxNTA1.XMx6ig.RfejEhXugaX488wbAi346zbi8SY');
+bot.login(process.env.TOKEN);
+
 
